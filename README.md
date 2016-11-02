@@ -1,2 +1,2 @@
-# freecodecamp
+# FreeCodeCamp
 My assignments from freecodecamp
